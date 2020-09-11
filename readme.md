@@ -2,7 +2,7 @@
 I love Blockchain.
 
 ## Projects I am focusing on
-- spectrum
+- [spectrum](https://github.com/grvti/spectrum)
 
 ## Projects I was focusing on
 - Aoi ~ ID Providerを削除し、信頼のカタチを変え、サービスによるユーザー認証方式を、次のステップへと持っていく。あたらしいSSO技術 ~
